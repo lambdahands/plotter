@@ -1,0 +1,8 @@
+*.swp
+*.swo
+.DS_Store
+pom.xml
+out/
+target/
+.repl/
+.lein-repl-history
